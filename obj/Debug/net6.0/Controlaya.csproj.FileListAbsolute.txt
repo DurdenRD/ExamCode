@@ -1,0 +1,15 @@
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/bin/Debug/net6.0/Controlaya
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/bin/Debug/net6.0/Controlaya.deps.json
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/bin/Debug/net6.0/Controlaya.runtimeconfig.json
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/bin/Debug/net6.0/Controlaya.dll
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/bin/Debug/net6.0/Controlaya.pdb
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.csproj.AssemblyReference.cache
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.AssemblyInfoInputs.cache
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.AssemblyInfo.cs
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.csproj.CoreCompileInputs.cache
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.dll
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/refint/Controlaya.dll
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.pdb
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/Controlaya.genruntimeconfig.cache
+/Users/durdenrd/DurdenRD/Geek/C#/Controlaya/obj/Debug/net6.0/ref/Controlaya.dll
