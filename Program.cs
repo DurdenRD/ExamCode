@@ -29,7 +29,10 @@ class Program
         Console.Write("Введите элементы массива через пробел: ");
         string[] inputArray = Console.ReadLine().Split(' ');
 
+        // Создание нового массива из строк, длина которых меньше или равна 3
+        string[] outputArray = new string[inputArray.Length]; 
         
+        // Создание результирующего массива необходимого размера
 
         // Вывод результата
         Console.WriteLine("Исходный массив: {0}", string.Join(", ", inputArray));
