@@ -33,7 +33,15 @@ class Program
         string[] outputArray = new string[inputArray.Length]; 
         
         // Создание результирующего массива необходимого размера
-
+int outputIndex = 0; // Индекс следующего элемента в результирующем массиве
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (inputArray[i].Length <= 3)
+            {
+                outputArray[outputIndex] = inputArray[i];
+                outputIndex++;
+            }
+        }
         // Вывод результата
         Console.WriteLine("Исходный массив: {0}", string.Join(", ", inputArray));
         
